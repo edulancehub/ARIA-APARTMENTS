@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 1a3e1b0e1614c010e6f752e1bdfabe074c491e5c edulancehub <sopnotory26@gmail.com> 1773093227 +0600	commit (initial): Initial import: Aria Apartments website
+1a3e1b0e1614c010e6f752e1bdfabe074c491e5c 0000000000000000000000000000000000000000 edulancehub <sopnotory26@gmail.com> 1773093689 +0600	Branch: renamed refs/heads/main to refs/heads/main
+1a3e1b0e1614c010e6f752e1bdfabe074c491e5c 1a3e1b0e1614c010e6f752e1bdfabe074c491e5c edulancehub <sopnotory26@gmail.com> 1773093689 +0600	Branch: renamed refs/heads/main to refs/heads/main
+1a3e1b0e1614c010e6f752e1bdfabe074c491e5c 3385412ae202149b6b0b9ddb1eb862d2537be18f edulancehub <sopnotory26@gmail.com> 1773093753 +0600	commit: hello not this bad language
+3385412ae202149b6b0b9ddb1eb862d2537be18f 0000000000000000000000000000000000000000 edulancehub <sopnotory26@gmail.com> 1773093878 +0600	Branch: renamed refs/heads/main to refs/heads/main
+3385412ae202149b6b0b9ddb1eb862d2537be18f 3385412ae202149b6b0b9ddb1eb862d2537be18f edulancehub <sopnotory26@gmail.com> 1773093878 +0600	Branch: renamed refs/heads/main to refs/heads/main
+3385412ae202149b6b0b9ddb1eb862d2537be18f 0000000000000000000000000000000000000000 edulancehub <sopnotory26@gmail.com> 1773095628 +0600	Branch: renamed refs/heads/main to refs/heads/main
+3385412ae202149b6b0b9ddb1eb862d2537be18f 3385412ae202149b6b0b9ddb1eb862d2537be18f edulancehub <sopnotory26@gmail.com> 1773095628 +0600	Branch: renamed refs/heads/main to refs/heads/main
+3385412ae202149b6b0b9ddb1eb862d2537be18f 0000000000000000000000000000000000000000 edulancehub <sopnotory26@gmail.com> 1773095660 +0600	Branch: renamed refs/heads/main to refs/heads/main
+3385412ae202149b6b0b9ddb1eb862d2537be18f 3385412ae202149b6b0b9ddb1eb862d2537be18f edulancehub <sopnotory26@gmail.com> 1773095660 +0600	Branch: renamed refs/heads/main to refs/heads/main
+3385412ae202149b6b0b9ddb1eb862d2537be18f eb49282aed82e053e79c887401aa4cc69e3a29c5 edulancehub <sopnotory26@gmail.com> 1773095761 +0600	pull --rebase origin main (start): checkout eb49282aed82e053e79c887401aa4cc69e3a29c5
+eb49282aed82e053e79c887401aa4cc69e3a29c5 56f2608379ba938545e35259d4772e9bf6914a54 edulancehub <sopnotory26@gmail.com> 1773095761 +0600	pull --rebase origin main (pick): Initial import: Aria Apartments website
+56f2608379ba938545e35259d4772e9bf6914a54 96149bacc20d26438c571223347422c99dc044d3 edulancehub <sopnotory26@gmail.com> 1773095761 +0600	pull --rebase origin main (pick): hello not this bad language
+96149bacc20d26438c571223347422c99dc044d3 96149bacc20d26438c571223347422c99dc044d3 edulancehub <sopnotory26@gmail.com> 1773095761 +0600	pull --rebase origin main (finish): returning to refs/heads/main
+96149bacc20d26438c571223347422c99dc044d3 6baa8ae6b4423f0671dbfea91b7298676d0ab30d edulancehub <sopnotory26@gmail.com> 1773095761 +0600	filter-branch: rewrite
