@@ -499,7 +499,7 @@ function showToast(msg) {
     fetch('https://api.groq.com/openai/v1/chat/completions', {
       method: 'POST',
       headers: {
-        'Authorization': 'Bearer REDACTED_GROQ_KEY',
+       'Authorization': 'Bearer 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',
         'Content-Type': 'application/json'
       },
       body: JSON.stringify(payload)
